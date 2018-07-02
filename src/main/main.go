@@ -14,4 +14,5 @@ func main()  {
 	}
 	ch01.Basic()
 	ch01.Switch(1)
+	ch01.Cycle()
 }

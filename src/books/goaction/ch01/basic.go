@@ -30,3 +30,13 @@ func Switch(a int)  {
 		fmt.Println("a=0\n")
 	}
 }
+
+func Cycle()  {
+	const LENGTH  = 5
+	var a =[LENGTH]int{3,43,3,5}
+	for i:=0;i<LENGTH;i++ {
+		fmt.Printf("a[%d]=%d\n",i,a[i])
+	}
+
+
+}
