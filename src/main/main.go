@@ -6,5 +6,5 @@ import (
 
 func main()  {
 
-	 ch01.Point()
+	 ch01.Struct()
 }
