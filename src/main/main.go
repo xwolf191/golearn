@@ -1,10 +1,10 @@
 package main
 
 import (
-	"books/diaryoflearngo/ch01"
+	"books/diaryoflearngo/ch02"
 )
 
 func main()  {
 
-	 ch01.Rune()
+	 ch02.Exp()
 }
