@@ -20,6 +20,9 @@ func Basic(){
 	//变量声明及初始化
 	f := "var"
 	fmt.Printf("f=%s\n",f)
+	//强制转换
+	var g byte = 123
+	println(g)
 }
 
 /**

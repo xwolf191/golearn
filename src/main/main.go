@@ -1,10 +1,10 @@
 package main
 
 import (
-	"books/gobyexample/ch01"
+	"books/diaryoflearngo/ch01"
 )
 
 func main()  {
 
-	 ch01.Struct()
+	 ch01.Rune()
 }
