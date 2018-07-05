@@ -1,10 +1,11 @@
 package main
 
 import (
-	"books/diaryoflearngo/ch02"
+	"books/diaryoflearngo/ch03"
 )
 
 func main()  {
 
-	 ch02.Exp()
+	ch03.FuncTest6(0)
+
 }
