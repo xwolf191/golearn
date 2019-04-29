@@ -4,8 +4,8 @@ import (
 	"books/diaryoflearngo/ch03"
 )
 
-func main()  {
+func main() {
 
-	ch03.FuncTest6(0)
+	ch03.FuncTest6(10)
 
 }
